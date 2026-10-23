@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.pio/
+build/
+*.bin
+*.elf
+*.map
+.env
+secrets.h
+__pycache__/
